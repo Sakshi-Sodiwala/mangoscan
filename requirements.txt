@@ -16,3 +16,4 @@ reportlab
 transformers
 sentencepiece
 reportlab==3.6.0
+torch==2.0.0
