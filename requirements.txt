@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+opencv-python
+Pillow
+numpy
+matplotlib
+pyttsx3
+fpdf
+qrcode
+gTTS
+langdetect
+googletrans==4.0.0rc1
