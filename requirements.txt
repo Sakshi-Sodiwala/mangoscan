@@ -12,3 +12,7 @@ langdetect
 googletrans==4.0.0rc1
 torch
 torchvision
+reportlab
+transformers
+sentencepiece
+reportlab==3.6.0
